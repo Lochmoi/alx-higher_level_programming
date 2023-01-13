@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+size_t print_dlistint(const dlistint_t *h);
 def print_dlistint(h):
     count = 0
     current = h
